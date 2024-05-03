@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\ar",
+    "\\src\\main\\java\\ar\\edu",
+    "\\src\\main\\java\\ar\\edu\\unlam",
+    "\\src\\main\\java\\ar\\edu\\unlam\\tallerweb1",
+    "\\src\\main\\java\\ar\\edu\\unlam\\tallerweb1\\domain",
+    "\\src\\main\\java\\ar\\edu\\unlam\\tallerweb1\\domain\\usuarios",
+    "\\src\\main\\java\\ar\\edu\\unlam\\tallerweb1\\infrastructure"
+  ],
+  "SelectedNode": "\\src\\main\\java\\ar\\edu\\unlam\\tallerweb1\\infrastructure\\RepositorioPeliculaImpl.java",
+  "PreviewInSolutionExplorer": false
+}

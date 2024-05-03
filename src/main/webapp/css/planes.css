@@ -1,0 +1,71 @@
+.recomendaciones-container{
+	margin: 50px 20px;
+	position: relative;
+}
+
+.activo{
+	border-radius: 5px;
+    margin-top: 5em;
+	font-size: 20px;
+	text-align: center;
+	background-color: #ea377a;
+	color: #fff;
+	padding: 8px 16px;
+}
+
+.activo-free{
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+    margin-top: 1em;
+	font-size: 20px;
+	text-align: center;
+	background-color: #ea377a;
+	color: #fff;
+	padding: 8px 16px;
+}
+
+.plan{
+	border: none;
+	border-radius: 5px;
+    margin-top: 1em;
+	font-size: 20px;
+	text-align: center;
+	background-color: #badefc;
+	color: #242832;
+	padding: 8px 16px;
+	position: absolute;
+    width: 80%;
+    right: 10%;
+    bottom: 8%;
+    transition: 1s;
+}
+
+.plan:hover{
+	text-decoration: none;
+	color: #badefc;
+	background-color: #242832;
+	border: 3px solid #badefc;
+}
+
+.vencimiento{
+	color: #ea377a;
+	text-align: center;
+}
+
+.precio{
+	font-size: 18px;
+	color: #ea377a;
+	text-align: center;
+}
+
+form{
+	text-align: center;
+}
+
+form button{
+	font-size: 20px;
+}
+.nombrePlan{
+	text-align: center;
+}

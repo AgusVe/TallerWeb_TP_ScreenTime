@@ -1,0 +1,181 @@
+@charset "ISO-8859-1";
+
+a:hover{
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 700;
+	color: #fff;
+	font-family: Roboto, sans-serif !important;
+	text-align: left;
+}
+
+h3 {
+	text-align: center;
+	margin: 20px;
+}
+
+h4 {
+	display: block;
+	padding: 0px 20px;
+}
+
+h5 {
+	margin: 1em;
+	color: #badefc;
+	text-align: center;
+	font-size: 1.25rem;
+	text-transform: uppercase;
+}
+
+form {
+	text-align: center;
+}
+
+textarea {
+	padding: 20px;
+	width: 70%;
+	border-radius: 10px;
+	background-color: #16181c;
+	color: #badefc;
+	margin-bottom: 1em;
+}
+
+.button-reviews {
+	width: 12%;
+	margin: auto;
+	display: block;
+	background-color: #ea377a;
+	font-size: 20px;
+	padding: 5px;
+	border: none;
+}
+.button-reviews:hover {
+	background-color: #b02a5c !important;
+}
+
+.reviews {
+	background-color: #242832 !important;
+	padding: 10px 0px;
+	border-radius: 10px;
+}
+
+.comentario {
+	display: flex;
+	flex-wrap: nowrap;
+	width: 70%;
+	margin: 1em auto;
+	justify-content: flex-start;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #badefc;
+}
+
+.comentario img {
+	width: 15%;
+	height: 100px;
+	border-radius: 5px;
+}
+
+.comentario p {
+	width: 100%;
+	padding: 10px 20px;
+	margin-bottom: 0;
+	color: #badefc;
+}
+
+.genero, .plataforma {
+	font-size: 16px;
+	display: inline;
+	padding: 5px;
+	border: 1px solid #badefc;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+.datos {
+	display: flex;
+	flex-wrap: nowrap;
+	margin: 3em 0em;
+}
+
+.datos img {
+	width: 300px;
+	height: 450px;
+	border: 1px solid #badefc;
+	border-radius: 5px;
+}
+
+.contenedor {
+	margin: 3em auto;
+}
+
+.sinopsis {
+	font-family: Open Sans, sans-serif;
+	color: #badefc;
+	line-height: 1.5;
+}
+
+.items {
+	font-size: 20px;
+}
+
+.button-agregarfavs {
+	margin-top: 1em;
+	background-color: #ea377a !important;
+	border: none;
+	justify-content: center;
+}
+
+.button-agregarfavs:hover {
+	background-color: #b02a5c !important;
+}
+
+.col-4 {
+	max-width: 50%;
+}
+
+.sesion {
+	font-size: 18px;
+	margin-top: 1em;
+}
+
+.sesion a {
+	font-weight: bold;
+	color: #ea377a;
+}
+
+.datosreview{
+	width: 100%;
+}
+
+.vistareview{
+	text-align: end;	
+}
+
+.comentario a{
+	width: 100px;
+	color: #badefc;
+}
+
+.vistareview a{
+	font-weight: bold;
+	color: #ea377a;
+	margin-left: 1em;
+}
+
+
+
+.comentario img{
+	width: 100px;
+}
+
+.error{
+	margin-top: 1em;
+	text-align: center;
+}
+
+.error span{
+	color: red;
+}
